@@ -1,3 +1,4 @@
+
 Name of QuantLet: STFcat03
 
 Published in: Statistical Tools for Finance and Insurance
@@ -15,11 +16,3 @@ Submitted: Fri, May 04 2012 by Dedy Dwi Prastyo
 Datafile: ncl.dat
 
 Example: 'Plot of the aggregate number of losses / Mean value function over time.'
-
-
-
-
-
-
-
-
