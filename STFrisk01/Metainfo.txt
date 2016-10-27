@@ -1,0 +1,13 @@
+Name of QuantLet: STFrisk01
+
+Published in: Statistical Tools for Finance and Insurance
+
+Description: 'Produces the plots of non-homogeneous Poisson processes with linear and sinusoidal intensity.'
+
+Keywords: poisson, Poisson process, model, loss function, empirical, graphical representation, visualization, risk process
+
+Author: Zografia Anastasiadou
+
+Submitted: Wed, October 26 2011 by Dedy Dwi Prastyo
+
+Example: 'Produces these plots of N(t) over t.'

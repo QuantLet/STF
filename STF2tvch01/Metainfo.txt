@@ -1,0 +1,17 @@
+Name of QuantLet: STF2tvch01
+
+Published in: Statistical Tools for Finance and Insurance
+
+Description: 'Plots the daily log-returns of S&P 500 in the years  2001 to 2005.'
+
+Keywords: 'returns, time-series, garch, nonstationary, heteroskedasticity'
+
+See also: 'STF2tvch02, STF2tvch03, STF2tvch04, STF2tvch05, STF2tvch06, STF2tvch07'
+
+Author: Pavel Cizek, Wolfgang K. Haerdle, Rafal Weron
+
+Submitted: Thu, October 06 2011 by Awdesch Melzer
+
+Datafile: SP1997-2005s.txt
+
+Example: 'Plot of the daily log-returns of S&P 500 2001-2005'

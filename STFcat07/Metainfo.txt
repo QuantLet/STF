@@ -1,0 +1,21 @@
+Name of QuantLet: STFcat07
+
+Published in: Statistical Tools for Finance and Insurance
+
+Description: 'Plots the difference between zero-coupon CAT bond prices in the Burr and lognormal claim amount cases for a non-homogeneous Poisson process governing the flow of losses.'
+
+Keywords: CAT bond, plot, 3d, zero-coupon, lognormal, Poisson process
+
+See also: 'BondCoupon, BondOnlyCoupon, BondZeroCoupon, Burrrnd, Paretornd, mixexprnd, simHPP, simNHPP, simNHPPALP'
+
+Author: Awdesch Melzer
+
+Submitted: Tue, August 06 2013 by Awdesch Melzer
+
+Datafile: ncl.dat
+
+Example: '3D plot of the difference between zero-coupon CAT bond prices in the Burr and lognormal claim amount cases for a non-homogeneous Poisson process governing the flow of losses.'
+
+
+
+

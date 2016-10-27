@@ -1,0 +1,14 @@
+Name of QuantLet: STFruin02
+
+Published in: Statistical Tools for Finance and Insurance
+
+Description: 'Produces the exact ruin probability in infinite time for exponential claims.'
+
+Keywords: heavy-tailed, pdf, probability, poisson process, exponential, empirical
+
+See also: 'STFruin04, STFruin06, STFruin07, STFruin08, STFruin09, STFruin10, STFruin12, STFruin13, STFruin14, STFruin17'
+
+Author: Zografia Anastasiadou
+
+Submitted: Thu, July 28 2011 by Dedy Dwi Prastyo
+

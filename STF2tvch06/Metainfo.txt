@@ -1,0 +1,17 @@
+Name of QuantLet: STF2tvch06
+
+Published in: Statistical Tools for Finance and Insurance
+
+Description: 'Evaluates the mean absolute forecast errors of the AWS model for SP500 data in years 2001-2005.'
+
+Keywords: 'arch, forecast, garch, time-series, nonstationary, heteroskedasticity, forecast, volatility'
+
+See also: 'STF2tvch01, STF2tvch02, STF2tvch03, STF2tvch04, STF2tvch05, STF2tvch07'
+
+Author: Pavel Cizek
+
+Submitted: Thu, October 06 2011 by Awdesch Melzer
+
+Datafile: SP1997-2005s.txt
+
+Example: 'Plot of forecast errors in the AWS model relative to GARCH volatility forecast errory for SP500 data and plot of mean absolute forecast errors in the AWS model for SP500 data.'

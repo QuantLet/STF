@@ -1,0 +1,25 @@
+Name of QuantLet: STFcat03
+
+Published in: Statistical Tools for Finance and Insurance
+
+Description: 'Produces the plot of the aggregate quarterly number of losses for the PCS data together with different mean value functions.'
+
+Keywords: calibration, plot,  mean, currency, empirical, mean, CAT bond
+
+See also: STFcat01, STFcat01, STFcat02
+
+Author: Zografia Anastasiadou
+
+Submitted: Fri, May 04 2012 by Dedy Dwi Prastyo
+
+Datafile: ncl.dat
+
+Example: 'Plot of the aggregate number of losses / Mean value function over time.'
+
+
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+Name of QuantLet: STFstab02
+
+Published in: Statistical Tools for Finance and Insurance
+
+Description: 'STFstab02.R creates a) a plot of stable probability density function for different betas b) a plot of probability density functions of Gaussian, Cauchy, Levy distributions.
+              STFstab02.m shows a semi-logarithmic plot of symmetric (beta=mu=0) stable densities for four values of alpha and a plot of stable densities for alpha = 1.2 and four values of beta. Requires the "stabpdf_fft.m" function.'
+
+Keywords: Levy, cauchy, gaussian, pdf, stable distribution, graphical representation, visualization
+
+See also: STFstab01, STFstab03, stabpdf_fft
+
+Author: Zografia Anastasiadou, Rafal Weron
+
+Submitted: Tue, September 18 2012 by Dedy Dwi Prastyo
+
+Example: 'STFstab02.R produces these plots: a plot of probability density functions of Gaussian, Cauchy and Levy distributions and a plot of stable probability density function for beta=[0,0.5,0.8,1].
+          stabpdf_fft.m in STFstab02.m produces a semi- logarithmic plot of symmetric (beta=mu=0) stable densities for four values of alpha (Note the distinct behavior of the Gaussian (alpha = 2) distribution) and a plot of stable densities for alpha = 1.2 and four values of beta.'
+
