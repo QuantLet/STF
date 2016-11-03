@@ -1,0 +1,16 @@
+Name of QuantLet: STFhes02
+
+Published in: Statistical Tools for Finance and Insurance
+
+Description: 'Plots the marginal pdfs in the Black-Scholes (GBM) and Heston models for [kappa, theta, sigma, rho] = [2, 0.04, 0.3, -0.05] as well as log-linear scale of the Heston marginal pdfs. The tails of the Heston marginal pdfs are exponential. Requires pdfHeston.m function.'
+
+Keywords: 'heston, simulation, geometric-brownian-motion, visualization, graphical representation, wiener-process, black-scholes, pdf'
+
+See also: pdfHeston
+
+Author: Rafal Weron, Agnieszka Janek
+
+Submitted: Tue, September 18 2012 by Dedy Dwi Prastyo
+
+Example: 'pdfHeston.m plots the Heston marginal pdf and log of the pdf.'
+

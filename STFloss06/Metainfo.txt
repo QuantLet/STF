@@ -1,0 +1,17 @@
+Name of QuantLet: STFloss06
+
+Published in: Statistical Tools for Finance and Insurance
+
+Description: 'Plots three sample Burr pdfs, Burr(alpha, lambda, tau), on linear and double-logarithmic scales and three sample Weibull pdfs, Weib(beta, tau), on a linear and semi-logarithmic scales. We can see that for tau<1 the tails are much heavier and they look like power-law. Requires Burrpdf.m to run the program (see quantnet).'
+
+Keywords: loss function, weibull, pdf, graphical representation, visualization
+
+
+See also: 'Burrpdf, STFloss01, STFloss02, STFloss03, STFloss04, STFloss05, STFloss07, STFloss08, STFloss09, mef'
+
+Author: Joanna Janczura, Awdesch Melzer
+
+Submitted: Tue, October 09 2012 by Dedy Dwi Prastyo
+
+Example: Produces these plots of the Burr and Weibull densities.
+

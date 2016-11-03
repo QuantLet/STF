@@ -1,0 +1,19 @@
+Name of QuantLet: STFloss08
+
+Published in: Statistical Tools for Finance and Insurance
+
+Description: 'Plots the empirical mean excess function e_n(x) for the Danish fire loss data (dfl.dat or dfl.txt). Requires samplemef.m from the Quantnet website.'
+
+Keywords: loss function, empirical, scatterplot, graphical representation, visualization
+
+See also: 'STFloss01, STFloss02, STFloss03, STFloss04, STFloss05, STFloss06, STFloss07, STFloss09, samplemef'
+
+Author: Joanna Janczura
+
+Submitted: Fri, December 07 2012 by Dedy Dwi Prastyo
+
+Datafile: dfl.dat, dfl.txt
+
+Example: 'Produces this plot of the empirical mean excess function e_n(x) in DKK million for the Danish fire loss data.'
+
+

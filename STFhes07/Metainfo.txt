@@ -1,0 +1,16 @@
+Name of QuantLet: STFhes07
+
+Published in: Statistical Tools for Finance and Insurance
+
+Description: 'Plots the EUR/USD market smile on July 22, 2010 and the fit obtained with the Heston model for tau = 1 week, 1 month, 3 months, 6 months  1 year, 2 years, the term structure of the volatility of volatility and the correlation visualizing the problem of fitting the smile in the short term. Requires HestonVanillaFitSmile.m, HestonVanilla.m, and GarmanKohlhagen.m function.'
+
+Keywords: maturity, correlation, term structure, volatility smile, volatility, implied-volatility, heston, model, parameter, graphical representation, visualization
+
+See also: GarmanKohlhagen, HestonVanilla, HestonVanillaFitSmile
+
+Author: Rafal Weron, Agnieszka Janek
+
+Submitted: Tue, September 18 2012 by Dedy Dwi Prastyo
+
+Example: 'HestonVanillaFitSmile.m, HestonVanilla.m, GarmanKohlhagen.m produce plots of the EUR/USD market smile on July 22, 2010 and the fit obtained with the Heston model for tau = 1 week (figure 1, top left panel), 1 month (figure 1, top right panel), 3 months (figure 1 bottom left panel), 6 months (figure 1, bottom right panel), 1 year (figure 2 top left panel), 2 years (figure 2, top right panel), the term structure of the volatility of volatility and the correlation visualizing the problem of fitting the smile in the short term (figure 2, bottom panels).'
+

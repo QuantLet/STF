@@ -1,0 +1,21 @@
+Name of QuantLet: STFloss05
+
+Published in: Statistical Tools for Finance and Insurance
+
+Description: 'Plots three sample Pareto pdfs, Par(alpha, lambda), on linear and double-logarithmic scales. The thick power-law tails of the Pareto distribution (asymptotically linear in the log-log scale) are clearly visible. Requires Paretopdf.m to run the program (see quantnet).'
+
+Keywords: loss function, pareto, pdf, lognormal, graphical representation, visualization
+
+See also: 'Paretopdf, STFloss01, STFloss02, STFloss03, STFloss04, STFloss06, STFloss07, STFloss08, STFloss09, mef'
+
+Author: Joanna Janczura, Awdesch Melzer
+
+Submitted: Tue, October 09 2012 by Dedy Dwi Prastyo
+
+Example: Produces these plots of the Pareto densities
+
+
+
+
+
+
