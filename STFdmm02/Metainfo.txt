@@ -1,0 +1,20 @@
+Name of QuantLet: STFdmm02
+
+Published in: Statistical Tools for Finance and Insurance
+
+Description: 'Presents statistical poperties of the minimum spanning tree, bidirectional minimum length path and unidirectional length path for company data (close.csv) The S&P 500 subset is analysed.'
+
+Keywords: financial, distance, tree, portfolio, asset, visualization, descriptive-statistics
+
+See also: STFdmm11, bmlp, mst, ultra, umlp
+
+Author: Janusz Miskiewicz, Awdesch Melzer
+
+Submitted: Fri, November 09 2012 by Dedy Dwi Prastyo
+
+Datafile: close.csv
+
+Example: 'mst.m, ultra.m, umlp.m, blmp.m create these plots.'
+
+
+

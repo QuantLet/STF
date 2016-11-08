@@ -1,0 +1,16 @@
+Name of QuantLet: STFdmm10
+
+Published in: Statistical Tools for Finance and Insurance
+
+Description: 'Presents the analysis of the network evolution. The procedure generate networks in moving time window and calculate the frequency of connections between elements of the chosen S&P 500 companies (close.csv). The minimum spanning tree is constructed. Requires ultra.m, mst.m to run the program.'
+
+Keywords: financial, distance, tree, portfolio, asset, historical moving window
+
+See also: STFdmm11, mst, ultra
+
+Author: Janusz Miskiewicz, Awdesch Melzer
+
+Submitted: Wed, November 21 2012 by Dedy Dwi Prastyo
+
+Datafile: close.csv
+

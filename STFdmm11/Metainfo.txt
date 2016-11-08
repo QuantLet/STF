@@ -1,0 +1,23 @@
+Name of QuantLet: STFdmm11
+
+Published in: Statistical Tools for Finance and Insurance
+
+Description: 'Presents the statistical properties of the minimum spanning tree as a function of time windows sizes for elements of the chosen S&P 500 companies (close.csv). The Theil index based distance is used. Requires theil.m, mst.m, manh.m to run the program.'
+
+Keywords: financial, distance, tree, portfolio, asset, visualization, descriptive-statistics
+
+See also: 'STFdmm01, STFdmm02, STFdmm03, STFdmm04, STFdmm05, STFdmm06, STFdmm07, STFdmm08, STFdmm09, STFdmm10, manh, mst, theil'
+
+Author: Janusz Miskiewicz, Awdesch Melzer
+
+Submitted: Fri, November 23 2012 by Dedy Dwi Prastyo
+
+Datafile: close.csv
+
+Example: 'theil.m, mst.m, manh.m produce these plots.'
+
+
+
+
+
+

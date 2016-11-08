@@ -1,0 +1,19 @@
+Name of QuantLet: STFdmm03
+
+Published in: Statistical Tools for Finance and Insurance
+
+Description: 'Presents statistical poperties of the minimum spanning tree bidirectional minimum length path and unidirectional length path. The WIG 20 subset is analysed (gwp.csv) Requires mst.m, umlp.m, bmlp.m, ultra.m and {Statistical Toolbox} from Matlab to run the quantlet.'
+
+Keywords: financial, distance, tree, portfolio, asset, visualization, descriptive-statistics
+
+See also: STFdmm11, bmlp, mst, ultra, umlp
+
+Author: Janusz Miskiewicz, Awdesch Melzer
+
+Submitted: Fri, November 09 2012 by Dedy Dwi Prastyo
+
+Datafile: gwp.csv
+
+Example: 'mst.m, umlp.m, bmlp.m, ultra.m create these plots.'
+
+

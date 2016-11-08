@@ -1,0 +1,20 @@
+Name of QuantLet: STFdmm12
+
+Published in: Statistical Tools for Finance and Insurance
+
+Description: 'Presents the statistical properties of the minimum spanning tree as a function of time windows sizes for elements of the chosen WIG 20 companies (close.csv). The Theil index based distance is used. Requires theil.m, mst.m, manh.m to run the program. Note that the {statistical toolbox} from Matlab is required as well.'
+
+Keywords: financial, distance, tree, portfolio, asset, visualization, descriptive-statistics
+
+See also: manh, mst, theil
+
+Author: Janusz Miskiewicz, Awdesch Melzer
+
+Submitted: Mon, November 26 2012 by Dedy Dwi Prastyo
+
+Datafile: gwp.csv
+
+Example: theil.m, mst.m, manh.m produce these plots.
+
+
+
