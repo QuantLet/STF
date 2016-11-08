@@ -9,9 +9,9 @@ Name of QuantLet : STFdmm01
 
 Published in : Statistical Tools for Finance and Insurance
 
-Description : 'Calculates the minimum spanning tree (MST) and presents the results as a set of
+Description : Calculates the minimum spanning tree (MST) and presents the results as a set of
 links for company data set (close.csv). The data contains 20 stocks listet in S&P 500. The links
-are presented in the order of attachments. The matlab version equires mst.m to run the program.'
+are presented in the order of attachments. The matlab version equires mst.m to run the program.
 
 Keywords : financial, distance, tree, portfolio, asset
 
