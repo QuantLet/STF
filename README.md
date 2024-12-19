@@ -1,2 +1,0 @@
-# STF
-Quantnet: STF quantlets
