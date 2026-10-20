@@ -9,7 +9,7 @@ Name of QuantLet: STFstab01
 
 Published in: Statistical Tools for Finance and Insurance
 
-Description: STFstab01.R creates a) a semilog plot of symmetric stable probability density function for different alphas b) a double logarithmic plot of right tails of symmetric stable disribution functions for different alphas.
+Description: STFstab01.R creates a) a semilog plot of symmetric stable probability density function for different alphas b) a double logarithmic plot of right tails of symmetric stable disribution functions for different alphas. STFstab01.m calculates the log returns of the DIJA daily closing values from the period January 3, 2000 - December 31, 2009 and plots the Gaussian fit to the empirical culmulative distribution function (cdf) of the returns on a double logarithmic scale. Requires the "empcdf.m" function.
 
 Keywords: cdf, pdf, stable distribution, graphical representation, visualization
 
@@ -21,7 +21,7 @@ Submitted: Tue, September 18 2012 by Dedy Dwi Prastyo
 
 Datafile: Dane_copula.txt
 
-Example: STFstab01.R  produces these plots: a double logarithmic plot of right tails of symmetric stable disribution functions for different alphas and a semilog plot of symmetric stable probability density function for different alphas.
+Example: STFstab01.R  produces these plots: a double logarithmic plot of right tails of symmetric stable disribution functions for different alphas and a semilog plot of symmetric stable probability density function for different alphas. empcdf.m in STFstab01.m  produces a plot of the the Gaussian fit to the empirical culmulative distribution function (cdf) of the returns on a double logarithmic scale (only left tail is plotted).
 
 ```
 <div align="center">
