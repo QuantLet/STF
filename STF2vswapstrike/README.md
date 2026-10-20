@@ -21,7 +21,7 @@ Submitted: Mon, December 05 2011 by Dedy Dwi Prastyo
 
 Usage: STF2vswapstrike
 
-Input: s1- the lowest strike of options" portfolio
+Input: s1- the lowest strike of options" portfolio s2- the highest strike of options" portfolio tau- maturity of the swap n- number of options used for replication
 
 Output: Strike value
 
