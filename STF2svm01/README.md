@@ -21,7 +21,7 @@ Submitted: Tue, October 15 2013 by Awdesch Melzer
 
 Datafile: Training100by100noNA.txt
 
-Input: G- Data Matrix, needs to include labels
+Input: G- Data Matrix, needs to include labels x1- integer, First variable to be drawn on the 2 Dim. plot x2- integer, Second variable drawn on the 2 Dim. plot y- integer, Indicates the column number where the lables are stored in D c- scalar, Capacity constraint sig- scalar, prior for RBF kernel
 
 Output: Four 2-DIm Plot of a svm classification. The RBF kernel and hinge loss are used. The triangles represent solvent (y = -1) and circles represent insolvent companies (y = +1). The shaded object represent the support vectors. The colored background corresponds to different score values $f$. The bluer the area, the higher the score (y= +1). Most successful companies (y=-1) are in the red area.
 
