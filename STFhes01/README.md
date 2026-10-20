@@ -19,7 +19,7 @@ Author: Rafal Weron
 
 Submitted: Tue, September 18 2012 by Dedy Dwi Prastyo
 
-Input: SIGMA- volatility
+Input: SIGMA- volatility RHO- correlation between the spot price and volatility processes KAPPA- speed of mean reversion of the volatility process N- time endpoint delta- time step size THETA- long-term mean of the volatility process
 
 Output: GBM and Heston dynamics
 
