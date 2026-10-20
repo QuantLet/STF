@@ -19,9 +19,7 @@ Author: Zografia Anastasiadou
 
 Submitted: Mon, October 17 2011 by Awdesch Melzer
 
-Example: Produces these plots: a plot of the ruin probability and capital of an insurance company and plots of the relative error and capital.
-
-One error plot with: 
+Example: Produces these plots: a plot of the ruin probability and capital of an insurance company and plots of the relative error and capital. One error plot with: blue - err2 brown - err3 red - err5 black - err7 darkgreen - err8 One error plot with: red - err4 blue - err6 magenta - err9 darkgreen - err10 brown - err11.
 
 ```
 <div align="center">
